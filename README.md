@@ -18,7 +18,7 @@ HTML, CSS & JavaScript:
 - [W3Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 
-
+Ένας πολύ καλός τρόπος εξάσκησης των προγραμματιστικών γνώσεων μέσα από ένα παιχνίδι [προγραμματισμού](http://compute-it.toxicode.fr/)
 ## Markdown & Discord
 ### Τι είναι η Markdown;
 Η Markdown είναι μία γλώσσα η οποία βοηθάει στο να προβληθεί το κείμενό σου πιο όμορφα/ευανάγνωστα. Υποστηρίζεται από διάφορες ιστοσελίδες στο internet (από κάποιες περισσότερο, από άλλες λιγότερο). Το κείμενο που διαβάζεις αυτή τη στιγμή είναι γραμμένο σε Markdown. Αν θέλεις να μάθεις Markdown μπορείς να διαβάσεις τον [οδηγό του GitHub](https://guides.github.com/features/mastering-markdown/).
